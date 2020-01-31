@@ -88,6 +88,10 @@ p {
         visibility: hidden;
     }
 
+    .title-img {
+        visibility: hidden;
+    }
+
 }
 
 /* features section*/
