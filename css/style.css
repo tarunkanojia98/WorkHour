@@ -75,7 +75,7 @@ p {
     left: 35%;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
     #title {
         text-align: center;
     }
